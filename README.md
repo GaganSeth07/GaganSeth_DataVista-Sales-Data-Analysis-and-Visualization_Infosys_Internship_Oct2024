@@ -1,4 +1,4 @@
-DATA OPERATIONS
+# DATA OPERATIONS
 
 Use Case - Learning how to perform arithmatic & modulus operations. It's widely used in scitific computing which supports arrays and matrices along with large collection of high level mathematical functions to operate on these data structures.
 
@@ -13,18 +13,24 @@ Codes Executed:
 6. Naive Bayes Algorithm
 7. SVM
 
-DATA PROCESSING
+# DATA PROCESSING
+
 Use Case - It's used for manipulatinng, transforming and analysing data.
+
 Library used - Pandas
+
 Codes Executed:
 1. Reading a File(csv, xlx, etc.)
 2. Executing and Extracting the Headings
 3. Updating existing column names
 4. Data Cleaning
 
-DATA VISUALIZATION
+# DATA VISUALIZATION
+
 Use Case - Used for visualizing the data for better understanding.
+
 Library Used - MatPlotLib
+
 Codes Executed:
 1. Simple Line Plot
 2. Scatter Plot
@@ -37,9 +43,12 @@ Codes Executed:
 9. Logarithmic Scale
 10. Plotting with Annotations
 
-DEEP LEARNING IMAGE PROCESSING
+# DEEP LEARNING IMAGE PROCESSING
+
 Use Case - Digitizing and executing images with help of vision(deep learning-cnn) frameworks/libraries.
+
 Library Used - OpenCV
+
 Codes Executed:
 1. Image Reading
 2. Image Crop
@@ -57,9 +66,12 @@ Codes Executed:
 14. Canny Edge Detection
 15. Morphological Operation
 
-DEEP LEARNING VIDEO PROCESSING
+# DEEP LEARNING VIDEO PROCESSING
+
 Use Case - Digitizing and executing videos with help of vision(deep learning-cnn) frameworks/libraries.
+
 Library Used - OpenCV
+
 Codes Executed:
 1. Video Streaming
 2. Video Stacking
@@ -67,6 +79,7 @@ Codes Executed:
 4. FPS
 5. Multiple Video Streaming
 
-SALES DATA ANALYSIS AND VISUALIZATION
+# SALES DATA ANALYSIS AND VISUALIZATION
+
 Use Case - Processing, Analysing and Visualizing the Sales data
 Libraries Used - Pandas, MatPlotLib, Seaborn
