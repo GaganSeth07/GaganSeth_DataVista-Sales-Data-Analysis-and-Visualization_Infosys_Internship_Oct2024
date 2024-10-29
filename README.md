@@ -1,7 +1,7 @@
-DATA OPERATIONS
-Use Case - Learning how to perform arithmatic & modulus operations. It's widely used in scitific computing which supports arrays and matrices along with large collection of high level mathematical functions to operate on these data structures.
-Library used - Numpy
-Codes Executed: 
+# DATA OPERATIONS
+## Use Case - Learning how to perform arithmatic & modulus operations. It's widely used in scitific computing which supports arrays and matrices along with large collection of high level mathematical functions to operate on these data structures.
+## Library used - Numpy
+## Codes Executed: 
 1. Liner Regresstion
 2. Logistic Regresstion
 3. Euclidean Distance
