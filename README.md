@@ -43,6 +43,12 @@ Codes Executed:
 9. Logarithmic Scale
 10. Plotting with Annotations
 
+# DATA VISUALIZATION STATISTICAL
+
+Use Case - Used for creating visually appealing, statistically-focused plots with minimal code.
+
+Library Used - Seaborn
+
 # DEEP LEARNING IMAGE PROCESSING
 
 Use Case - Digitizing and executing images with help of vision(deep learning-cnn) frameworks/libraries.
