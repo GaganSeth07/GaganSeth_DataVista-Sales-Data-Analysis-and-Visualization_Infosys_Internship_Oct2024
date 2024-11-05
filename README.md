@@ -1,3 +1,11 @@
+# DATA COMPUTATION
+
+Use Case - Commonly used for data analysis, optimization, signal processing, statistical analysis, and linear algebra in scientific and engineering fields.
+
+Library Used - Scipy
+
+Codes Executed:
+
 # DATA OPERATIONS
 
 Use Case - Learning how to perform arithmatic & modulus operations. It's widely used in scitific computing which supports arrays and matrices along with large collection of high level mathematical functions to operate on these data structures.
