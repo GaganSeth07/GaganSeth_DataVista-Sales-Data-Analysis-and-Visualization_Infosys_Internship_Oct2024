@@ -1,5 +1,11 @@
 # FINAL PROJECT: DATAVISTA 
 
+Dataset - SUPERMARKET SALES
+
+Use Case - Analyzing sales data to identify top products, customer preferences, and sales trends, enabling data-driven business strategies.
+
+Libraries Used - Numpy, Pandas, MatPlotLib, Seaborn, Scikit-Learn
+
 # DATA COMPUTATION
 
 Use Case - Commonly used for data analysis, optimization, signal processing, statistical analysis, and linear algebra in scientific and engineering fields.
