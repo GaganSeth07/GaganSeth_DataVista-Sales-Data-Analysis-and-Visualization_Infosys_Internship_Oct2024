@@ -1,5 +1,6 @@
 # FINAL PROJECT: DATAVISTA
-## Dataset - SUPERMARKET SALES
+
+Dataset - SUPERMARKET SALES
 
 Use Case - Analyzing sales data to identify top products, customer preferences, and sales trends, enabling data-driven business strategies.
 
