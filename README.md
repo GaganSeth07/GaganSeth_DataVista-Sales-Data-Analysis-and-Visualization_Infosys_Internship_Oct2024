@@ -6,6 +6,12 @@ Use Case - Analyzing sales data to identify top products, customer preferences, 
 
 Libraries Used - Numpy, Pandas, MatPlotLib, Seaborn, Scikit-Learn
 
+# SALES DATA ANALYSIS AND VISUALIZATION
+
+Use Case - Processing, Analysing and Visualizing the Sales data
+
+Libraries Used - Pandas, MatPlotLib, Seaborn
+
 # DATA COMPUTATION
 
 Use Case - Commonly used for data analysis, optimization, signal processing, statistical analysis, and linear algebra in scientific and engineering fields.
@@ -130,9 +136,3 @@ Codes Executed:
 3. Video Saving
 4. FPS
 5. Multiple Video Streaming
-
-# SALES DATA ANALYSIS AND VISUALIZATION
-
-Use Case - Processing, Analysing and Visualizing the Sales data
-
-Libraries Used - Pandas, MatPlotLib, Seaborn
