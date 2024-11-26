@@ -5,6 +5,15 @@ Use Case - Commonly used for data analysis, optimization, signal processing, sta
 Library Used - Scipy
 
 Codes Executed:
+1. Optimization - Finds minima, maxima, and solves linear programming problems.
+2. Integration - Calculates numerical integrals for areas and volumes.
+3. Interpolation - Estimates values between data points.
+4. Linear Algebra - Solves linear systems and performs matrix operations.
+5. Statistics - Provides statistical measures and hypothesis tests.
+6. Fourier Transforms - Analyzes signals in the frequency domain.
+7. Signal and Image Processing - Filters signals and processes images.
+8. Ordinary Differential Equation (ODE) Solvers - Solves differential equations.
+9. Special Functions - Includes advanced mathematical functions.
 
 # DATA OPERATIONS
 
